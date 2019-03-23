@@ -1,9 +1,10 @@
-# ndsc-beginner
+# Product Category Classification
 ## Competition Summary
 In this year's Beginner Category of National Data Science Challenge (NDSC), participants are required to determine the category of a product given its image and title. For more details of the competition, visit the [Kaggle] page.
 
 ## Proposed Solution
 Using an architecture incorporating parallel networks, the model learns from both text and image data simultaneously, hence predicting new items with greater accuracy.
+<br />
 <br />
 ![Alt text](https://drive.google.com/uc?id=1Jn3qcv8jEFyuY2Zh0u1Q9pjxmYqupXYh)
 
