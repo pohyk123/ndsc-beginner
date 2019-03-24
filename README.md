@@ -15,7 +15,9 @@ The final model attained a final standing of 58th out of 359 teams, with approxi
 Team Members:
  - Glenn Tan
  - Lim Shu Fang
- - Poh Yong Keat
- - Sarah Ye
+ - [Poh Yong Keat]
+ - [Sarah Ye]
 
 [Kaggle]: https://www.kaggle.com/c/ndsc-beginner
+[Poh Yong Keat]: https://github.com/pohyk123
+[Sarah Ye]: https://github.com/sarahyyx96
